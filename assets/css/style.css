@@ -81,6 +81,13 @@ section {
     bottom: 120px;
     right: 140px;
   }
+.hero-cta {
+  
+}
+.hero-cta h2 {
+  color:#fce138;
+  font-size: 50px;
+}
 .hero-form h3 {
     font-size: 24px;
     margin: 0;
